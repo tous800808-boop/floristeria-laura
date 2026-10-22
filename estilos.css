@@ -1,0 +1,17 @@
+body {
+  font-family: Arial, sans-serif;
+  backgroud-color: #fffaf5;
+}
+.caja {
+  width: 1100px;
+  margin: 20px auto;
+  padding: 20px;
+  border: 1px solid #ddd
+}
+h1 {
+  colr: #c2185b;
+}
+.gris {
+  color: #cccccc;
+  font-size: 20 px;
+}
